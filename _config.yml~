@@ -78,8 +78,8 @@ analytics:
 # Site Author
 author:
   name             : "Tess Jeffers"
-  avatar           : /assets/images/5916_crop.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Princeton PhD in Quantitative and Computational Biology. Data wrangler, cat squeezer, bug enthusiast."
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  #bio              : "I am an amazing person."
   location         : "Brooklyn, NY"
   email            : jeffers.tess@gmail.com
   uri              :
@@ -94,13 +94,13 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : tess-jeffers
+  linkedin         : www.linkedin.com/in/tess-jeffers
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          : JeffersTess
+  twitter          :
   vine             :
   weibo            :
   xing             :
