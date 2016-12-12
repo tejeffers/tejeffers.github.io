@@ -70,16 +70,16 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : google # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : UA-88875462-1
 
 
 # Site Author
 author:
   name             : "Tess Jeffers"
-  avatar           : /assets/images/5916_crop.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Princeton PhD in Quantitative and Computational Biology. Data wrangler, cat squeezer, bug enthusiast."
+  avatar           : /assets/images/5916_crop.jpg
+  bio              : "Data wrangler, cat squeezer, bug enthusiast."
   location         : "Brooklyn, NY"
   email            : jeffers.tess@gmail.com
   uri              :
